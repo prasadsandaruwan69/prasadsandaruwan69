@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [
-prasad-portfolio-ikhg.vercel.app](https://
+prasad-portfolio-ikhg.vercel.app](
 prasad-portfolio-ikhg.vercel.app/)
 
 - 📫 How to reach me **prasaddev.contact@gmail.com**
