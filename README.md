@@ -1,16 +1,8 @@
 # 🚀 Hi there, I'm Prasad Sandaruwan
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+Expert;Python+%7C+Laravel+Specialist;Building+Scalable+Solutions;Always+Learning+%26+Growing!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  
 [![Profile Views](https://komarev.com/ghpvc/?username=prasadsandaruwan69&label=Profile%20views&color=36BCF7&style=for-the-badge)](https://github.com/prasadsandaruwan69)
 [![GitHub followers](https://img.shields.io/github/followers/prasadsandaruwan69?label=Followers&style=for-the-badge&color=36BCF7)](https://github.com/prasadsandaruwan69)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sandaruwan-9a6b0b2a0/)
-
-</div>
 
 ---
 
@@ -18,23 +10,27 @@
 
 ```javascript
 const prasadSandaruwan = {
-    role: "Full Stack Developer",
-    company: "Onimta Information Technology",
-    location: "Sri Lanka 🇱🇰",
-    currentProjects: [
-        "E-Commerce Solutions at ServerClub (Cloudcom.lk)",
-        "Modern Web Applications",
-        "API Development & Integration"
-    ],
-    expertise: {
-        frontend: ["React.js", "Next.js", "Vue.js", "TypeScript"],
-        backend: ["Laravel", "Python", "Node.js", "Express.js"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        specialization: "Full Stack Web Development"
-    },
-    currentlyLearning: ["Advanced React Patterns", "Microservices", "Cloud Architecture"],
-    lifePhilosophy: "Code with passion, learn continuously, and build solutions that matter! 💡",
-    contact: "prasaddev.contact@gmail.com"
+  role: "Full Stack Web Developer",
+  company: "Onimta IT",
+  location: "Colombo, Sri Lanka 🇱🇰",
+  experience: "1.5 years",
+  currentProjects: [
+    "Face Recognition System (250,000+ identities)",
+    "ERP System (MyRewards.lk)",
+    "Desktop POS System with Tauri",
+    "AI-Powered Web Solutions"
+  ],
+  expertise: {
+    frontend: ["React.js", "Next.js", "Vue.js", "TypeScript"],
+    backend: ["Laravel", "Node.js", "Flask", "FastAPI"],
+    databases: ["MySQL", "MongoDB"],
+    aiIntegration: ["OpenAI API", "n8n Automation", "Computer Vision"],
+    deployment: ["Ubuntu/Linux", "Docker", "Contabo VPS", "Hostinger"],
+    specialization: "Scalable Web Applications with AI Integration"
+  },
+  currentlyLearning: ["Advanced AI Automation", "Edge Computing", "Desktop Apps with Rust"],
+  lifePhilosophy: "Building intelligent web solutions that combine AI with robust functionality! 💡",
+  contact: "prasaddev.contact@gmail.com"
 };
 ```
 
@@ -42,38 +38,38 @@ const prasadSandaruwan = {
 
 ## 🔥 What I'm Up To
 
-- 🏢 **Working at Onimta Information Technology** as a Full Stack Developer
-- 🛍️ **Building E-Commerce Platforms** with modern tech stacks
-- ⚛️ **Specializing in React & Next.js** for cutting-edge frontend experiences
-- 🐍 **Developing Backend Solutions** with Python and Laravel
-- 🚀 **Creating Scalable APIs** and microservices architecture
-- 🎨 **Designing User-Centric** applications with exceptional UX
+- 🏢 **Full Stack Developer at Onimta IT** - Building AI-powered applications
+- 🤖 **AI Integration Specialist** - Working with OpenAI API and automation tools
+- ⚛️ **Real-time Web Solutions** - WebSocket integration for live data
+- 🖥️ **Desktop Development** - Creating POS systems with Tauri
+- 🐧 **Linux Server Management** - Docker, VPS hosting, and DevOps
+- 🎯 **Computer Vision** - Deploying Python-based solutions on Raspberry Pi
 
 ---
 
 ## 💼 Professional Experience
 
-### 🔹 Onimta Information Technology
-**Full Stack Developer** | *Building Tomorrow's Solutions Today*
+### 🔹 Onimta IT, Colombo
+**Full Stack Web Developer** | *Feb 2025 – Present*
 
-- Developing enterprise-level web applications
-- Architecting scalable full-stack solutions
-- Leading frontend development with React & Next.js
-- Backend API development with Laravel & Python
-- Database design and optimization
+- Building real-time face recognition frontend with React and WebSocket (250,000+ identities)
+- Developing ERP system (MyRewards.lk) using Laravel, Vue.js, and Tailwind CSS
+- Creating desktop POS system with Tauri for sales and inventory management
+- Implementing server-side solutions and API integrations
+- Setting up Raspberry Pi for edge computing with Python-based computer vision
 
-### 🔹 ServerClub (Pvt) Ltd
-**Associate Software Engineer** | *E-Commerce Excellence*
+### 🔹 Serverclub Pvt Ltd, Badulla
+**Web Developer** | *May 2023 – Jan 2024*
 
-- Building and maintaining [Cloudcom.lk](https://cloudcom.lk)
-- Full-stack development of e-commerce features
-- Performance optimization and scalability
+- Developed and managed Cloudcom.lk web solutions
+- Hosted and managed Linux VPS servers on Contabo
+- Configured Docker environments for scalable deployments
+- Set up cPanel hosting, domain configuration, and email services
+- Implemented secure server configurations for high-availability services
 
 ---
 
 ## 🛠️ Tech Arsenal
-
-<div align="center">
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -82,168 +78,219 @@ const prasadSandaruwan = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend Development
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🗄️ Databases & Storage
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🤖 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🔧 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-</div>
+### 🎨 Hardware & Edge Computing
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prasadsandaruwan69&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadsandaruwan69&layout=compact&langs_count=10&theme=tokyonight&border_radius=10"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prasadsandaruwan69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadsandaruwan69&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadsandaruwan69&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadsandaruwan69&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasadsandaruwan69&theme=tokyonight&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prasadsandaruwan69&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadsandaruwan69&theme=tokyo-night&hide_border=true&border_radius=10" alt="Contribution Graph"/>
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasadsandaruwan69&theme=tokyo-night&hide_border=true)](https://github.com/prasadsandaruwan69)
 
 ---
 
 ## 🎯 Core Competencies
 
-<div align="center">
-
-| Frontend Excellence | Backend Mastery | Full Stack Skills |
-|:---:|:---:|:---:|
-| ⚛️ React & Next.js | 🔴 Laravel Framework | 🔄 RESTful APIs |
-| 🎨 Modern UI/UX | 🐍 Python Development | 🔐 Authentication |
-| 📱 Responsive Design | 🗄️ Database Design | ☁️ Cloud Deployment |
-| ⚡ Performance Optimization | 🔧 API Development | 🧪 Testing & QA |
-
-</div>
+| Frontend Excellence | Backend Mastery | AI & Integration | DevOps & Deployment |
+|:---:|:---:|:---:|:---:|
+| ⚛️ React & Next.js | 🔴 Laravel Framework | 🤖 OpenAI API | 🐧 Linux/Ubuntu |
+| 🎨 Vue.js & Tailwind | 🐍 Python (Flask/FastAPI) | 🔄 n8n Automation | 🐳 Docker |
+| 📱 Responsive Design | 🗄️ MySQL & MongoDB | 👁️ Computer Vision | ☁️ VPS Management |
+| ⚡ WebSocket Real-time | 🔧 RESTful APIs | 🔌 API Integration | 🔐 Server Security |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlighted Projects
 
 ### 💼 Professional Work
 
-**🛒 Cloudcom.lk E-Commerce Platform**
-- Full-stack e-commerce solution
-- Tech: React, Laravel, MySQL
-- Features: Product management, payment integration, admin dashboard
+**🎯 Face Recognition System (Frontend)**
+- Real-time identification of 250,000+ identities
+- Tech: React, WebSocket
+- Features: Live updates, responsive UI
 
-**🏢 Onimta Information Technology Projects**
-- Enterprise web applications
-- Modern tech stack: Next.js, Python, PostgreSQL
-- Scalable and maintainable architecture
+**📊 ERP System (MyRewards.lk)**
+- Full-featured business workflow management
+- Tech: Laravel, Vue.js, Tailwind CSS
+- Features: User-friendly interface, comprehensive business tools
+
+**🛒 GoElectric.lk**
+- E-commerce platform for electric vehicles
+- Tech: Next.js, Laravel
+- Features: Performance-optimized, scalable architecture
+
+**🚗 GrandCarz.lk**
+- Modern automotive website
+- Tech: Next.js, Laravel
+- Features: Modern UI, efficient backend integration
+
+**🖥️ Desktop POS System**
+- Sales and inventory management
+- Tech: Tauri, Rust
+- Features: Fast, native desktop performance
+
+**🔧 Cloudcom.lk**
+- Web solutions and hosting services
+- Managed on Contabo VPS with Docker
+
+---
+
+## 🎓 Education
+
+**HND in Information Technology**  
+Sri Lanka Institute of Advanced Technological Education (SLIATE)
+
+**Final Year Project:** Car Rental Management System  
+PHP-based web application for managing bookings, customers, and payments
+
+---
+
+## 🏆 Achievements
+
+✅ Developed real-time web solutions with AI integration  
+✅ Built desktop POS system using Tauri and Rust  
+✅ Deployed production applications with Laravel, Next.js, and React  
+✅ Managed secure Linux servers with Docker-based deployments  
+✅ Integrated OpenAI API for intelligent chatbot solutions  
+✅ Implemented edge computing solutions on Raspberry Pi
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prasad-portfolio-ikhg.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sandaruwan-9a6b0b2a0/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/prasad.sandaruwan.98837)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasaddev.contact@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasadsandaruwan69)
-
-</div>
+<p align="center">
+  <a href="https://prasad-portfolio-ikhg.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/prasad-sandaruwan-9a6b0b2a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://web.facebook.com/prasad.sandaruwan.98837">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:prasaddev.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/prasadsandaruwan69">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 ## 💡 Random Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/prasadsandaruwan69/prasadsandaruwan69/output/snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasadsandaruwan69/prasadsandaruwan69/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasadsandaruwan69/prasadsandaruwan69/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasadsandaruwan69/prasadsandaruwan69/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 ## 📫 Let's Collaborate!
 
-<div align="center">
-
 ### 💼 Open for Opportunities
 
 I'm always interested in:
-- 🚀 Innovative Full Stack Projects
+- 🚀 Full Stack Development Projects
+- 🤖 AI Integration & Automation
+- 🖥️ Desktop Application Development
+- 🐧 Linux Server & DevOps Work
 - 🤝 Open Source Collaborations
-- 💡 Challenging Development Problems
-- 🌟 Learning New Technologies
+- 💡 Challenging Technical Problems
 
-**Drop me an email at:** [prasaddev.contact@gmail.com](mailto:prasaddev.contact@gmail.com)
-
-</div>
+**Drop me an email at:** [prasaddev.contact@gmail.com](mailto:prasaddev.contact@gmail.com)  
+**Phone:** +94 740855069
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</p>
 
 ### ✨ Philosophy
 
 ```javascript
 while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
+  eat();
+  sleep();
+  code();
+  innovate();
+  repeat();
 }
 ```
 
-**"Building the future, one line of code at a time! 🚀"**
+**"Building intelligent web solutions, one line of code at a time! 🚀"**
 
 ---
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Thanks for visiting! Let's create something amazing together! ⭐**
-
-<img src="https://komarev.com/ghpvc/?username=prasadsandaruwan69&style=for-the-badge&color=36BCF7" alt="Profile Views"/>
-
-</div>
+<p align="center">
+  <b>Thanks for visiting! Let's create something amazing together! ⭐</b>
+</p>
